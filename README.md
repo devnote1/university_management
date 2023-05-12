@@ -13,6 +13,10 @@ CRUD 중심으로 가볍게 구현한 프로젝트입니다
 - Collaboration : `Git` `GitHub` `Collabee`
 
 ## 📌 주요 기능
+
+### MAIN 화면 ### 
+- 
+
 #### 공통 기능 (로그인) - <a href="" >상세보기 - WIKI 이동</a>
 - 세션처리
 - 쿠키저장
